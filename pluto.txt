@@ -1,2 +1,6 @@
 this is not a planet anymore. Unlucky
+<<<<<<< HEAD
 sure, why not?
+=======
+No one wants to live there anyway, it's so cold!
+oh,, but cold isn't so bad.. :-D
